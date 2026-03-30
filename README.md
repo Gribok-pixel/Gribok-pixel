@@ -18,6 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gribok-pixel&show_icons=true&locale=en&layout=compact" alt="Gribok-pixel" /></p>
 
+![Codewars](https://github.r2v.ch/codewars?user=Sulya-pix&stroke=%23BB432C)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gribok-pixel&show_icons=true&locale=en" alt="Gribok-pixel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gribok-pixel&" alt="Gribok-pixel" /></p>
