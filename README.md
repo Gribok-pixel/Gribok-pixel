@@ -1,26 +1,83 @@
-# Привет 👋, Май неймис Сулейман
+# Привет 👋, меня зовут Сулейман
 
-### Ученый — Data Scientist
+## Ученый — Data Scientist
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gribok-pixel" alt="Gribok-pixel" /></a> </p>
+---
 
-- 📫 Как со мной связаться **suleyman_0915@mail.ru**
+## 🚀 Обо мне
 
-- 📄 Мое резюме **[https://perm.hh.ru/resume/0937b34dff104a18c70039ed1f597458386651](https://perm.hh.ru/resume/0937b34dff104a18c70039ed1f597458386651)**
+Я увлеченный разработчик и специалист по анализу данных, специализирующийся на создании интеллектуальных, масштабируемых и эффективных решений. Моя работа связана с машинным обучением, статистическим моделированием, разработкой игр, проектированием систем и алгоритмическим программированием.
 
-<h3 align="left">Соцсети:</h3>
-<p align="left">
-<a href="https://github.com/Gribok-pixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gribok-pixel" height="30" width="40" /></a>
-</p>
+Мне нравится решать реальные проблемы с помощью кода, изучать системы искусственного интеллекта и постоянно совершенствовать свои технические навыки.
 
-<h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gribok-pixel&show_icons=true&locale=en&layout=compact" alt="Gribok-pixel" /></p>
+## 📊 Обзор портфолио
+
+В этом репозитории собраны **20+ проектов**, демонстрирующих мои навыки в следующих областях:
+
+- 🤖 Машинное обучение и предиктивное моделирование
+- 📊 Структуры данных и алгоритмы
+- 💻 Полнофункциональная логика программирования
+- 🖥️ Десктопные приложения
+- ⚙️ Инструменты автоматизации
+- 🕷️ Сбор данных / Парсинг
+
+---
+
+## 🧠 Технические навыки
+
+### Языки программирования
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Машинное обучение и наука о данных
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Инструменты и технологии
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Основные компетенции
+- 📈 Анализ данных · Разработка моделей · Решение задач
+- 📊 Визуализация данных · Разработка алгоритмов · Архитектура ПО
+
+---
+
+## 📁 Проекты
+
+| Название | Описание | Используемые библиотеки |
+|----------|----------|------------------------|
+| **Анализ данных сервиса аренды самокатов** | Построить модель для задачи классификации, которая выберет подходящий тариф | Pandas, Matplotlib, Scikit-learn |
+
+> 🚧 *Список проектов пополняется. Скоро здесь появятся новые работы!*
+
+---
+
+## 📫 Свяжитесь со мной
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kione-mjigelo-299a96235)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kionedave@gmail.com)
+
+---
+
+## 📊 Статистика GitHub
 
 ![Codewars](https://github.r2v.ch/codewars?user=Sulya-pix&stroke=%23BB432C)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gribok-pixel&show_icons=true&locale=en" alt="Gribok-pixel" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gribok-pixel&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gribok-pixel&" alt="Gribok-pixel" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gribok-pixel&theme=radical" alt="GitHub Streak" />
+</p>
